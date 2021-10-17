@@ -7,7 +7,7 @@ names[4]="Paul";
 names[5]="frank";
 names[6]="larry";
 names[7]="paula";
-names[8]="lauea";
+names[8]="laura";
 names[9]="Jim";
 
 
